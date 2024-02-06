@@ -15,7 +15,9 @@ System.out.println("Servus");
 ![geh](.image1.jpg "WElcome")
 
 > Das wird jetzt nich so kurz aber so soll es doch auch sein oder etwa nicht was meinen sie dazu.
+
 Fußnote[^1].
+
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
