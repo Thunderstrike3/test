@@ -10,4 +10,4 @@ System.out.println("Servus");
 2. Hallo
 3. Dere
 [chess.com](https://www.chess.com/member/thunderstrike3"Profil")
-![geh]C:\Users\nibre\test\image1"WElcome"
+![geh](.image1.jpg "WElcome")
